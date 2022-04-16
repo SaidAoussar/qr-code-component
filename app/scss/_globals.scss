@@ -24,9 +24,6 @@ body {
 .container {
   margin: 0 auto;
   max-width: 20rem;
-  @include breakpoint-up(lg) {
-    max-width: 18.37rem;
-  }
 }
 
 main {
